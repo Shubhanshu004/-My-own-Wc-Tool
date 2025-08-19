@@ -1,65 +1,65 @@
-Perfect, Shubhanshu! 🚀
-A README.md makes your project look professional on GitHub. Here’s a nice beginner-friendly README you can use for your wc clone project:
+Perfect, Shubhanshu! 🚀<br>
+A README.md makes your project look professional on GitHub. Here’s a nice beginner-friendly README you can use for your wc clone project:<br>
 
-📝 wc Clone in Python
+📝 wc Clone in Python<br>
 
-This project is a Python implementation of the Unix command-line tool wc.
-It can count the number of lines, words, and characters in text, either from a file or from user input.
+This project is a Python implementation of the Unix command-line tool wc.<br>
+It can count the number of lines, words, and characters in text, either from a file or from user input.<br>
 
-📌 Features
+📌 Features<br>
 
-Count:
+Count:<br>
 
-Lines (-l)
+Lines (-l)<br>
 
-Words (-w)
+Words (-w)<br>
 
-Characters (-c)
+Characters (-c)<br>
 
-Works with:
+Works with:<br>
 
-Files
+Files<br>
 
-Direct user input (via sys.stdin)
+Direct user input (via sys.stdin)<br>
 
-Simple and beginner-friendly
+Simple and beginner-friendly<br>
 
-⚙️ Usage
-🔹 1. From a File
-python my_wc.py -l -w -c sample.txt
-
-
-Example output:
-
-Lines: 4
-Words: 13
-Characters: 57
-
-🔹 2. From User Input
-python my_wc.py -l -w -c
+⚙️ Usage<br>
+🔹 1. From a File<br>
+python my_wc.py -l -w -c sample.txt<br>
 
 
-Type/paste your text:
+Example output:<br>
 
-Roses are red
-Violets are blue
-Python is fun
-And so are you
+Lines: 4<br>
+Words: 13<br>
+Characters: 57<br>
+
+🔹 2. From User Input<br>
+python my_wc.py -l -w -c<br>
 
 
-Press:
+Type/paste your text:<br>
 
-Ctrl+D (Linux/Mac)
+Roses are red<br>
+Violets are blue<br>
+Python is fun<br>
+And so are you<br>
 
-Ctrl+Z + Enter (Windows)
 
-Example output:
+Press:<br>
 
-Lines: 4
-Words: 13
-Characters: 57
+Ctrl+D (Linux/Mac)<br>
 
-📂 Project Structure
+Ctrl+Z + Enter (Windows)<br>
+
+Example output:<br>
+
+Lines: 4<br>
+Words: 13<br>
+Characters: 57<br>
+
+📂 Project Structure<br>
 .
 ├── my_wc.py       # main script <br>
 ├── sample.txt     # example file <br>
