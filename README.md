@@ -61,6 +61,10 @@ Characters: 57
 
 📂 Project Structure
 .
-├── my_wc.py       # main script
-├── sample.txt     # example file
-└── README.md      # documentation
+├── my_wc.py       # main script <br>
+├── sample.txt     # example file <br>
+└── README.md      # documentation <br>
+🧑‍💻 Author
+
+👋 Hi, I’m Shubhanshu Tiwari, an aspiring AI Engineer. <br>
+This project is part of my learning journey in mastering Python and command-line tools.
